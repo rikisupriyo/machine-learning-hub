@@ -1,2 +1,2 @@
-# end-to-end-ml
+# **Machine Learning Algorithms**
 Machine Learning Algorithms
